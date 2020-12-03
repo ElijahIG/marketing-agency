@@ -19,8 +19,6 @@ Added id for link to "search engine optimization"
 
 Corrected last h2 tag to a h4
 
-<h4>Made with ❤️️ by Horiseon</h4>
-
 Removed . before all header and footer paths since no longer class types
 
 Grouped repetetive style tags

@@ -6,7 +6,7 @@ Code ajustments to improve readability and simplicity
 
 Added a more descriptive title
 
-Added header, footer, main, and article tags
+Added header, nav, footer, main, and article tags
 
 Added id for link to "search engine optimization"
 

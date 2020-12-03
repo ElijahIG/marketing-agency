@@ -6,9 +6,6 @@ Code ajustments to improve readability and simplicity
 
 Added a more descriptive title
 
-
-<title>Horiseon Marketing Agency</title>
-
 Added header, footer, main, and article tags
 
 Added id for link to "search engine optimization"
